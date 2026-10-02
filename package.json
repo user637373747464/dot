@@ -1,0 +1,5 @@
+{
+  "name": "dots",
+  "type": "module",
+  "dependencies": { "@vercel/og": "latest" }
+}
